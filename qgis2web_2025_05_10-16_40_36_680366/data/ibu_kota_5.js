@@ -1,0 +1,1 @@
+var json_ibu_kota_5 = {"type":"FeatureCollection","name":"ibu_kota_5","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"KODEKOTA":2484.0,"NAMA_KEC":"Pahandut","NAMA_IKK":"PALANGKA RAYA","STAT_KOTA":"IKPROP"},"geometry":{"type":"Point","coordinates":[113.916407286681732,-2.207371634769734]}}]}
